@@ -1,0 +1,21 @@
+{
+    "MONGO_HOST"            : "mongodb://userRapido:g39dVxXfRXMJwu_g@128.199.181.150:27017/rapidoProd",
+    "MONGO_DBNAME"          : "rapidoProd",
+
+
+    "CITY_IP"               : "http://128.199.147.130",
+    "CITY_PATH"             : "/api/city/",
+
+    "SMS_IP"                : "http://139.59.27.188:11001",
+    "SMS_PATH"              : "/api/sms/",
+
+    "ENTITIY"               : {
+        "WALLET_IP"         : "http://188.166.226.198",
+        "WALLET_PATH"       : "/wallet/referralCashBack"
+    },
+
+    "CLUSTER_URL"           : "http://aravind:aravind9988@128.199.101.154/clusters",
+    "CLUSTER_HEADERS_KEY"   : "key",
+    "CLUSTER_HEADERS_VALUE" : "r@p!do420",
+    "DEFAULT_VENDOR"        : "rapido"
+}
